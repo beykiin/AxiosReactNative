@@ -1,3 +1,14 @@
+<h1 align="center"><i>AXIOS EXAMPLE REACT NATIVE</i></h1>
+<p align="center">In this project, I've implemented fetching data asynchronously from a web API using await and handling it synchronously with try...catch. When the 'Fetch Data' button is clicked, a loading animation appears on the page before fetching the data. Moreover, I've used useEffect to ensure that the data is fetched when the page is initially opened.</p>
+<div align="center">
+   <div style="display-flex" just>
+      <img src="SS1.png" width="300" height="600">
+      <img width="30">
+      <img src="SS2.png" width="300" height="600">
+   </div>
+</div>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
